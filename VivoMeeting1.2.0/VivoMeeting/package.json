@@ -1,0 +1,16 @@
+{
+  "name": "VivoMeeting",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --testTimeout 10000"
+  },
+  "dependencies": {
+    "zapier-platform-core": "12.2.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "private": true
+}
